@@ -18,13 +18,7 @@
 							<input name="image_score" type="file" id="image_score">
 							</td>
 						</tr>
-						<tr>
-							<td>Email</td>
-							<td>:</td>
-							<td>
-							<input name="email" type="text" id="email">
-							</td>
-						</tr>
+						
 						<tr>
 							<td colspan="3" align="center">
 							<input type="submit" name="btnSubmit" value="Sent">
